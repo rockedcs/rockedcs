@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @rockedcs
-- 👀 I’m interested in learning coding from scratch, as my engineer degree didn't kept my expectations.
-- 🌱 I’m currently learning javascript
-
-
+Hey there! 👋
+I'm a Ruby on Rails dev who’s all about building cool B2B software. I love turning business needs into slick, efficient apps that actually make life easier.
